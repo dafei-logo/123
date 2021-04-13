@@ -7,7 +7,7 @@
             "apps": [{
             "id": "xxl",
             "name": "消消乐",
-            "keys": ["xxlheader1", "xxlbody1", "xxlheader2", "xxlbody2"],
+            "keys": ["xxlheader1", "xxlbody1", "xxlheader2", "xxlbody2","xxlheader3", "xxlbody3", "xxlheader4", "xxlbody4"],
             "author": "@dalao",
             "settings": [{
             "id": "xxlsetting",
