@@ -53,8 +53,8 @@
     {
             "id": "mmdzz",
             "name": "萌喵大作战无限刷",
-            "keys": ["mmdzzurl","mmdzzhd"],
-            "author": "@feizao",
+            "keys": ["mmdzzurl","mmdzzhd","mmdzzurl1","mmdzzhd1"],
+            "author": "@linainai",
             "settings": [{
             "id": "mmdzzstatus",
             "name": "当前账号",
