@@ -50,21 +50,10 @@
                 "icons": ["https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg", "https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg"],
                 "script": "https://raw.githubusercontent.com/age174/-/main/smz.js"
   },
-                      {
-            "id": "blnccount",
-            "name": "账号个数",
-            "val": "1",
-            "type": "number",
-            "desc": "需要几个账号，数字为几"
-    }],
-            "repo": "https://github.com/age174/-/blob/main/blnc.js",
-            "icons": ["https://ae01.alicdn.com/kf/U7bcabce8ea7644f18e3c84f65907e34bf.jpg", "https://ae01.alicdn.com/kf/U7bcabce8ea7644f18e3c84f65907e34bf.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/blnc.js"
-    } ,
     {
             "id": "mmdzz",
             "name": "萌喵大作战无限刷",
-            "keys": ["mmdzzurl","mmdzzhd","mmdzzurl1","mmdzzhd2"],
+            "keys": ["mmdzzurl","mmdzzhd"],
             "author": "@feizao",
             "settings": [{
             "id": "mmdzzstatus",
